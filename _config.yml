@@ -1,6 +1,6 @@
 # Site settings
 title: Alsww Blog
-SEOTitle: 苦咖啡的博客 | alsww Blog
+SEOTitle: 苦咖啡的技术博客 | alsww Blog
 header-img: img/home-bg.jpg
 email: alsww@qq.com
 description: "关于 python开发 | DevOps | OPS | 这里是 @alsww苦咖啡 的个人博客，与你一起发现更大的世界。"
@@ -12,7 +12,7 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-# weibo_username:     alsww
+weibo_username:     alsww
 # zhihu_username:     alsww
 github_username:    alsww
 #twitter_username:  huxpro
@@ -70,7 +70,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，搞搞DevOps，<br>人生苦短，我用python。"
+sidebar-about-description: "写写代码，搞搞DevOps，<br>人生苦短，我用python！"
 sidebar-avatar: /img/me1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -93,35 +93,6 @@ friends: [
         title: "我的51CTO博客",
         href: "http://alsww.blog.51cto.com/"
     }
-    # ,{
-    #     title: "乱序",
-    #     href: "http://mida.re/"
-    # },{
-    #     title: "前端外刊评论",
-    #     href: "http://qianduan.guru/"
-    # },{
-    #     title: "天镶的博客",
-    #     href: "http://lingyu.wang/"
-    # },{
-    #     title: "Luke 的自留地",
-    #     href: "http://hmqk1995.github.io"
-    # },{
-    #     title: "Ebn's Blog",
-    #     href: "http://ebnbin.com/"
-    # },{
-    #     title: "SmdCn's Blog",
-    #     href: "http://blog.smdcn.net"
-    # },{
-    #     title: "解旻的博客",
-    #     href: "http://xieminis.me/"
-    # },{
-    #     title: "DHong Say",
-    #     href: "http://dhong.co"
-    # },{
-    #     title: "尹峰以为",
-    #     href: "http://ingf.github.io/"
-    # },{
-    #     title: "前端神盾局",
-    #     href: "http://wepiaofei.github.io/blog/"
-    # }
+    
+    
 ]

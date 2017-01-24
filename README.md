@@ -1,20 +1,9 @@
-#Hux Blog
+#Alsww Blog
 
-###[View Live Hux Blog &rarr;](https://huangxuan.me)
+###[View Live Hux Blog &rarr;](https://alsww.github.io)
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![](http://alsww.github.io/img/blog-desktop.jpg)
 
-
-
-## Boilerplate (beta)
-
-Want to clone a boilerplate instead of my buzz blog? Here comes this!  
-
-```
-$ git clone git@github.com:Huxpro/huxblog-boilerplate.git
-```
-
-**[View Boilerplate Here &rarr;](http://huangxuan.me/huxblog-boilerplate/)**
 
 
 ## Porting 
